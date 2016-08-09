@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidExamples\RandomNumber\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\AndroidExamples\RandomNumber\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-9b07902cce878f2949ecfccfc0e58571d1f71ca3.jar" />
+    </item>
+    <item
+        jar="C:\AndroidExamples\RandomNumber\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\AndroidExamples\RandomNumber\app\build\intermediates\pre-dexed\debug\classes-c37e39f6522440da44bd466f5925673302789379.jar" />
+    </item>
+    <item
+        jar="C:\AndroidExamples\RandomNumber\app\libs\thingspeakandroid-0.2.0-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ab3804f2cb3139a8ba1d6cfc3b775a2a135e8fc8">
+        <dex dex="C:\AndroidExamples\RandomNumber\app\build\intermediates\pre-dexed\debug\thingspeakandroid-0.2.0-sources-fdedc198d2e6af87934f1440d4b25df23bf94b4c.jar" />
+    </item>
+    <item
+        jar="C:\AndroidExamples\RandomNumber\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\AndroidExamples\RandomNumber\app\build\intermediates\pre-dexed\debug\classes-f56d38776bb9c26518daadc5b0fa1472bda2cf1c.jar" />
+    </item>
+    <item
+        jar="C:\AndroidExamples\RandomNumber\app\libs\thingspeakandroid-0.2.0-javadoc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d06cd483ed1389e33e289a13f9d8bb18cf9f3384">
+        <dex dex="C:\AndroidExamples\RandomNumber\app\build\intermediates\pre-dexed\debug\thingspeakandroid-0.2.0-javadoc-e73bc4128e98de70be526d9aa4c293e363307869.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\AndroidExamples\RandomNumber\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-1885b0879fb6816ad122e2ec42558b55396d8c26.jar" />
+    </item>
+
+</items>
